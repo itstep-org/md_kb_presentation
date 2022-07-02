@@ -5,3 +5,4 @@
 2. [Dillinger (editor)](https://dillinger.io/?ref=producthunt)
 3. [GitBook (kb)](https://www.gitbook.com/)
 4. [WikiJS (kb)](https://js.wiki/)
+5. [Obsidian :-)](https://obsidian.md/)
